@@ -52,5 +52,6 @@ class LinkedList(Node):
 
 LL1 = LinkedList()
 LL1.add_begin(120)
+Ll1.add_begin(159)
 LL1.add_end(200)
 LL1.Print_LL()
