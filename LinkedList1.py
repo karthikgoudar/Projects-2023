@@ -7,6 +7,10 @@ date   : 30 JAN, 2023
 
 '''
 
+'''
+In this project we wil be creating a Node, creating a Linked List and adding elements at the begining and at the end of the linked list.
+
+'''
 
 # creating a Node
 class Node():
