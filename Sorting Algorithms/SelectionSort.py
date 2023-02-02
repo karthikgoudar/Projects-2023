@@ -1,4 +1,5 @@
 '''
+
 Author : Karthik Goudar
 Date   : 2 Feb 2023
 
@@ -9,9 +10,9 @@ Selection sort is a simple sorting algorithm that works by repeatedly finding th
 unsorted part of the list and swapping it with the first unsorted element.
 
 The minimum element from the unsorted part of the list is selected and swapped with the first unsorted element.
- This process is repeated until the entire list is sorted in ascending order.
+This process is repeated until the entire list is sorted in ascending order.
+ 
 '''
-
 
 
 def selectionSort(arr):
