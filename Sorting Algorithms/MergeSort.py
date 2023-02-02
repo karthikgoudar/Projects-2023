@@ -6,7 +6,7 @@ Date   : 2 Feb 2023
 Simple Merge Sort Algorithm
 
 Merge sort is a divide-and-conquer algorithm that works by dividing the unsorted list into n sub-lists,
- each containing one element, and then repeatedly merging sub-lists to produce new sorted sub-lists until there is only one sub-list remaining.
+each containing one element, and then repeatedly merging sub-lists to produce new sorted sub-lists until there is only one sub-list remaining.
 
 
 The unsorted list is divided into n sub-lists, each containing one element. The sub-lists are then merged to produce new sorted sub-lists.
