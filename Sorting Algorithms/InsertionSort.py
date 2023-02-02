@@ -9,7 +9,7 @@ Insertion sort is a simple sorting algorithm that builds the final sorted array 
 It is much less efficient than more advanced algorithms such as quicksort, heapsort, or merge sort.
 
 Each element from the unsorted part of the list is selected and inserted into its correct position in the sorted part of the list.
- This process is repeated until the entire list is sorted in ascending order.
+This process is repeated until the entire list is sorted in ascending order.
 '''
 
 
