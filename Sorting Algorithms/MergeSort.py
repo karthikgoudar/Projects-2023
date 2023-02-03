@@ -1,6 +1,6 @@
 '''
 Author : Karthik Goudar
-Date   : 2 Feb 2023
+Date   : 2 Feb, 2023
 
 
 Simple Merge Sort Algorithm
