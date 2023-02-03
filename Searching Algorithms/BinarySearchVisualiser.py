@@ -1,3 +1,17 @@
+'''
+
+Binary Search Visualiser
+
+Author : Karthik Goudar
+Date   : 3 Feb, 2023
+
+Here is a simple implementation of binary search visualization using Pygame
+
+
+'''
+
+
+
 import pygame
 import sys
 import random
