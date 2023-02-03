@@ -1,7 +1,7 @@
 '''
 
 Author : Karthik Goudar
-date   : 2 Feb 2023
+date   : 2 Feb, 2023
 
 
 Bubble Sort Visualizer Using Pygame
