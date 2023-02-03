@@ -4,6 +4,10 @@ Binary Search
 
 Author : Karthik Goudar
 Date   : 3 Feb, 2023
+
+
+Simple Binary Search program usng python
+
 '''
 
 
