@@ -1,7 +1,7 @@
 '''
 
 Author : Karthik Goudar
-Date   : 1 Feb 2023
+Date   : 1 Feb, 2023
 
 
 Simple Insertion Sort Algorithm
