@@ -1,3 +1,9 @@
+'''
+DFS using recursion
+
+Author : Karthik Goudar
+Date   : 1 Mar, 2023
+
 # Implement Graph Traversal DFS Algorithm 
 # Recursive approach using adj list
 
