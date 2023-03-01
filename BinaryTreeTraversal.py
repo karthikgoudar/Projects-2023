@@ -1,3 +1,9 @@
+'''
+Binary Tree Traversal
+
+Author : Karthik Goudar
+Date   : 01-03-2023
+
 # Structure of binary tree:
 # 1. To represent nodes which contains data:
 # 2. 2 links which points to left and right children along the data fields
