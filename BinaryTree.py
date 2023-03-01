@@ -3,7 +3,7 @@
 Binary Tree
 
 Author : Karthik Goudar
-date   : 18 JAN, 2023
+Date   : 18 JAN, 2023
 
 '''
 
