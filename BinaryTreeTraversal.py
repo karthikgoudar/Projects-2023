@@ -74,7 +74,7 @@ def preOrderIterative(self, root, result):
 
     while stack: 
         node  = stack.pop()
-        result.append(node.data)
+        result.append(node.data) 
         if node.right: stack.append(node.right)
         if node.left: stack.append(node.data)
 
@@ -182,7 +182,7 @@ def levelOrder(root, result):
     while not q.empty():
         node = q.get()
         result.append(node.data)
-
+ 
         if node.left:
             q.put(node.left)
         if node.right:
