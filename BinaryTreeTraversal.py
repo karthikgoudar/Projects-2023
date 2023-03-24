@@ -10,7 +10,7 @@ Date   : 1 Mar, 2023
 # 1. To represent nodes which contains data:
 # 2. 2 links which points to left and right children along the data fields
 
-# Binary tree class and its methods
+# Binary tree class and its methods 
 class BinaryTreeNode:
     def __init__(self,data):
         self.data = data   #root node
