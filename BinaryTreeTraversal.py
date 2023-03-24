@@ -77,7 +77,7 @@ def preOrderIterative(self, root, result):
         result.append(node.data) 
         if node.right: stack.append(node.right)
         if node.left: stack.append(node.data)
-
+ 
 # ---------------------------------------------------------------#
 
 # In order traversal
