@@ -72,7 +72,7 @@ def preOrderIterative(self, root, result):
     stack = []
     stack.append(root)
 
-    while stack:
+    while stack: 
         node  = stack.pop()
         result.append(node.data)
         if node.right: stack.append(node.right)
