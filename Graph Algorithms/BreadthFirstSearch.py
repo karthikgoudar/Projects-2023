@@ -2,7 +2,7 @@
 Author : Karthik Goudar
 Date   : 2 Feb, 2023
 
-
+ 
 Breadth First Search Algorithm
 
 Breadth-First Search (BFS) is an algorithm for traversing or searching a tree or graph data structure.
