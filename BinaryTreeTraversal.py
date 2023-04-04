@@ -11,7 +11,7 @@ Date   : 1 Mar, 2023
 # 2. 2 links which points to left and right children along the data fields
 
 # Binary tree class and its methods 
-class BinaryTreeNode:
+class BinaryTreeNode: 
     def __init__(self,data):
         self.data = data   #root node
         self.left = None   # left child
