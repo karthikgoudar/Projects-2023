@@ -41,7 +41,7 @@ def main() -> None:
     >>> s = "".join(Morse_Code_Dict)
     >>> decrypt(encrypt(s)) == s
     True
-    """
+    """ 
     message = "Save Our Soul!"
     print(message)
     message = encrypt(message)
