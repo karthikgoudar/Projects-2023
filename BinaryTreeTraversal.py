@@ -62,7 +62,7 @@ class BinaryTree:
             return 
         print(root.data, sep='-->', end='-->')
         self.preOrder(root.left)
-        self.preOrder(root.right)
+        self.preOrder(root.right) 
         
 # Non-recursive preorder traversal
 
