@@ -7,7 +7,7 @@ Date   : 1 Mar, 2023
 ''' 
 
 # Structure of binary tree: 
-# 1. To represent nodes which contains data:
+# 1. To represent nodes which contains data: 
 # 2. 2 links which points to left and right children along the data fields
 
 # Binary tree class and its methods 
