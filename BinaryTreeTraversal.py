@@ -134,7 +134,7 @@ class BinaryTree:
 
 # Non recursive Postorder Traversal
 
-# Each node is visited twice
+# Each node is visited twice 
 # The node's values are appended to thr result in traversal order
 
     def postOrderIterative(root, result):
