@@ -1,3 +1,15 @@
+'''
+Problem: Find the minimum number of rotations.
+
+Author : Karthik Goudar
+Data   : 5, May 2023
+
+Time Complexity  :  O(n)
+Space Complexity :  O(1)
+
+'''
+
+
 def min_rotations(s1, s2):
     """Find the minimum number of rotations to obtain s2 from s1.
 
