@@ -2,7 +2,7 @@
 Problem: Find the minimum number of rotations.
 
 Author : Karthik Goudar
-Data   : 5, May 2023
+Data   : 5, May 2023 
 
 Time Complexity  :  O(n)
 Space Complexity :  O(1)
